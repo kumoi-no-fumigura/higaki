@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/higaki",
  "yomi": "ひがきのおうなしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "檜垣嫗",
+  "desc": "肥後の檜垣嫗にまつわる歌と話を集めたもの。肥後守として下った清原元輔とのやりとりなど、歌物語ふうの章段からなる。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -403,6 +408,6 @@
   "poems": 31,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
